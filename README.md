@@ -1,51 +1,78 @@
-Smart Credit Card - Payment Landing Page
-Project Overview
-A responsive landing page for a Smart Credit Card application featuring modern design, smooth animations, and a mobile-friendly interface.
+# 💳 Smart Credit Card - Payment Landing Page
 
-🚀 Features
-✔ Fully Responsive - Works on all devices (desktop, tablet, mobile)
-✔ Modern UI - Attractive color scheme with smooth animations
-✔ Interactive Elements - Hover effects on buttons, cards, and links
-✔ Mobile Navigation - Hamburger menu for small screens
-✔ Download & Signup Options - Clear CTAs for app download and registration
+A modern, responsive landing page for a Smart Credit Card application, featuring sleek UI, mobile-friendly design, and smooth animations.
 
-🎨 Color Scheme
-Element	Color Code
-Hero Background	#1e1e1e
-Hero Heading (h1)	#f1f1f1
-Hero Text (p)	#6f6c73
-Button Background	#eadcfe
-Button Text	#3d3746
-Primary Accent	#7c4dff
-🛠 Technologies Used
-HTML5 (Structure)
+---
 
-CSS3 (Styling & Animations)
+## 🚀 Features
 
-JavaScript (Mobile Menu & Scroll Effects)
+- ✅ **Fully Responsive** – Works flawlessly on desktop, tablet, and mobile devices
+- 🎨 **Modern UI** – Clean layout with attractive colors and subtle animations
+- 📱 **Mobile-Friendly Navigation** – Hamburger menu for small screens
+- 🔒 **Interactive Elements** – Hover effects on cards, buttons, and links
+- 📥 **Clear CTAs** – Download App and Sign Up buttons for user conversion
 
-Font Awesome (Icons)
+---
 
-📂 File Structure
+## 🎨 Color Scheme
+
+| Element              | Color Code  |
+|----------------------|-------------|
+| Hero Background      | `#1e1e1e`   |
+| Hero Heading (h1)    | `#f1f1f1`   |
+| Hero Text (p)        | `#6f6c73`   |
+| Button Background    | `#eadcfe`   |
+| Button Text          | `#3d3746`   |
+| Primary Accent       | `#7c4dff`   |
+
+---
+
+## 🛠 Technologies Used
+
+- **HTML5** – Structure of the page  
+- **CSS3** – Styling and animations  
+- **JavaScript** – Interactive behavior (mobile menu, scroll effects)  
+- **Font Awesome** – Icons  
+
+---
+
+## 📁 Project Structure
 
 📂 payment-landing-page/
-├── 📄 index.html          # Main HTML file
-├── 📄 styles.css          # All CSS styling
-└── 📄 script.js           # JavaScript functionality
+├── 📄 index.html # Main HTML file
+├── 📄 styles.css # CSS styles
+└── 📄 script.js # JavaScript functionality
 
-📱 Responsive Breakpoints
-Desktop: ≥ 992px
 
-Tablet: 768px - 991px
+---
 
-Mobile: ≤ 767px
+## 📱 Responsive Breakpoints
 
- How to Run
-Download the project files.
+| Device   | Width Range     |
+|----------|-----------------|
+| Desktop  | ≥ 992px         |
+| Tablet   | 768px – 991px   |
+| Mobile   | ≤ 767px         |
 
-Open index.html in a web browser.
+---
 
-Explore the responsive design by resizing the browser window.
+## ▶ How to Run
 
-📸 Preview
-assets/1.png
+1. Download or clone the project.
+2. Open `index.html` in your web browser.
+3. Resize your browser to see the responsive layout in action.
+
+---
+
+## 📸 Preview
+
+![Landing Page Preview](assets/1.png)
+
+---
+
+## 📬 Contact
+
+Made with ❤️ by [Md Farhan Alam](https://github.com/mfarhanalam)
+
+---
+
